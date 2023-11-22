@@ -12,8 +12,8 @@ const config = {
       initialProjectKey: 'good-store',
     },
     production: {
-      applicationId: 'TODO',
-      url: 'https://your_app_hostname.com',
+      applicationId: 'clp9m0cy1000y0001imx5r2g9',
+      url: 'https://mc.australia-southeast1.gcp.commercetools.com/mc-app',
     },
   },
   oAuthScopes: {
